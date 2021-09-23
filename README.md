@@ -12,3 +12,4 @@
 4)Seguir desarrollando el proyecto
 5)Push con los cambios para actualizar el directorio remoto
 
+Seguimos modificando en local
